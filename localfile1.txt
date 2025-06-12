@@ -1,0 +1,1 @@
+git pull this command is using for in central repository any data add like if a new file add or existing file modified then we are going to using this command for get the data into local machine.
